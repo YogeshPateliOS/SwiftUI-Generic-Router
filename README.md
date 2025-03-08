@@ -17,8 +17,6 @@ Here’s a quick look at the app in action!
 
 ![Navigation Example](example.gif)
 
-*You can add the GIF and images to this section, upload the files to your repo, and replace the link.*
-
 ## Documentation
 For detailed steps and code breakdown, you can refer to the **PDF Documentation**:
 [Download PDF Guide](GenericRouter.pdf)

@@ -19,7 +19,7 @@ Here’s a quick look at the app in action!
 
 ## Documentation
 For detailed steps and code breakdown, you can refer to the **PDF Documentation**:
-[Download PDF Guide](GenericRouter.pdf)
+[View the PDF Documentation](GenericRouter.pdf)
 
 ## Video Tutorial
 For a visual guide, check out the [YouTube video](insert-youtube-link) that explains how to use and implement the Generic Router in SwiftUI.
